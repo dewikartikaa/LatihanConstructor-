@@ -1,0 +1,7 @@
+D:\dewi\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csprojAssemblyReference.cache
+D:\dewi\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.CoreCompileInputs.cache
+D:\dewi\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.exe.config
+D:\dewi\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.exe
+D:\dewi\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.pdb
+D:\dewi\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.exe
+D:\dewi\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.pdb
